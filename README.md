@@ -1,2 +1,2 @@
 # ContainerManagementSystem-CMS-
-TP039516, Designing and Developing Application in the Cloud Assignment
+Simple .Net MySql Web Application in Azure  as part of university module.
